@@ -1,3 +1,6 @@
+![1658316912984](https://user-images.githubusercontent.com/21984530/179972554-a6bf1263-1c23-4b87-bb22-376972b6ac80.jpg)
+
+Origin website is: https://github.com/Open-UAV/Firmware
 
 This is based on the PX4 autopilot stack, with additional contributions for swarms, and tools for deployment on the cloud. 
 
